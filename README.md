@@ -16,4 +16,4 @@ Teknologi yang Digunakan
 Cara Menjalankan Proyek Secara Lokal
 1. Clone repositori ini ke folder root server lokal (`htdocs` pada XAMPP):
    ```bash
-   git clone [https://github.com/jocelynaustinlaurensia/academic-thesis-management-system.git]
+   git clone https://github.com/jocelynaustinlaurensia/academic-thesis-management-system.git
