@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Peta Lokasi Untar</title>
+
+  <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+
+</head>
+
+<body>
+  <?php include "includes/frontmenu.php"; ?>
+
+  <div class="container mt-5">
+    <h1 class="text-center mb-4">Peta Universitas Tarumanagara</h1>
+    <div class="row justify-content-center">
+      <div class="col-md-10">
+        <div class="ratio ratio-16x9">
+          <iframe
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3966.712985026962!2d106.78692677589055!3d-6.169173960458673!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f65c8572640d%3A0xc0a066d78372614e!2sUniversitas%20Tarumanagara!5e0!3m2!1sid!2sid!4v1764041865607!5m2!1sid!2sid"
+            width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
+            referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</body>
+<script type="text/javascript" src="js/bootstrap.bundle.min.js"></script>
+
+</html>
